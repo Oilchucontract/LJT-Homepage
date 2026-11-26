@@ -41,7 +41,7 @@ My research focuses on natural language processing and machine learning. My rese
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.** Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, *Junteng Liu*, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations.** Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He. *NeurIPS 2023*.
 
-A complete and up-to-date list of my publications is also available on the [Publications](/publications/) page and on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) profile.
+A complete and up-to-date list of my publications is also available on the [Publications]({{ '/publications/' | relative_url }}) page and on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 ## Skills
 
